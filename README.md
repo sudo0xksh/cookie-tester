@@ -53,7 +53,7 @@ Clear results.
 ## 🧪 Usage
 
 Run the tool  
-python cookietester.py
+python cookie_tester.py
 
 Enter the target URL when prompted  
 Enter the cookie value you want to test
